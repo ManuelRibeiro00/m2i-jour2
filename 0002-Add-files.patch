@@ -1,0 +1,21 @@
+From 3a174e1d2ad16c67d00d18989ba164c7bfadcc2a Mon Sep 17 00:00:00 2001
+From: Manuel ribeiro <toto@toto.com>
+Date: Thu, 19 Sep 2019 11:40:07 +0200
+Subject: [PATCH 2/2] Add files
+
+---
+ .gitignore    | 0
+ logs/.gitkeep | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 .gitignore
+ create mode 100644 logs/.gitkeep
+
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..e69de29
+diff --git a/logs/.gitkeep b/logs/.gitkeep
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.23.0.windows.1
+
